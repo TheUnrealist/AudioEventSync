@@ -1,0 +1,3 @@
+The wonderful free balloon dog model used in this demo was made by Bassam Kurdali, commissioned by Rob Myers. If you'd like to use it in your own projects see the attribution requirements here...
+
+http://www.furtherfield.org/projects/balloon-dog-rob-myers
